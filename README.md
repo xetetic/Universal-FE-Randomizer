@@ -7,4 +7,4 @@ This repository is a fork (a copy) of the original randomizer repo. It exists so
 
 # spookyyune.jar
 
-To play Spooky Stones, download spookyyune.jar. Use it like you would the Universal FE Randomizer, but if FE8 classes are randomized, ONLY monster classes will be used to randomize characters. That means any characters you choose to randomize (player, enemy, bosses) will become monsters. It will try to prevent enemies from getting stuck in the mountains by generating mogalls, gargoyles, and baels there. However, enemy thieves remain the same. I don't know why yet.
+To play Spooky Stones, download spookyyune.jar by right-clicking it on the list above and choosing the "Save Link As..." option on your browser. Use it like you would the Universal FE Randomizer, but if FE8 classes are randomized, ONLY monster classes will be used to randomize characters. That means any characters you choose to randomize (player, enemy, bosses) will become monsters. It will try to prevent enemies from getting stuck in the mountains by generating mogalls, gargoyles, and baels there. However, enemy thieves remain the same. I don't know why yet.
